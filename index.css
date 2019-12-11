@@ -1,0 +1,63 @@
+.blood {
+    background-image: url(blood.gif);
+    height: 100%;
+    width: 100%;
+    
+}
+
+
+@media (max-width: 600px) {  
+}
+
+div.nav ul{
+    list-style-type:none;
+}
+.nav {
+	margin:10px;
+	width:900px;
+	font-family: sans-serif;
+}
+.nav li {
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+}
+
+.nav a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#fff;
+	color:#009;
+}
+
+.nav a:hover {
+	background-color:#009;
+	color:#fff;
+}
+
+h1 {
+    color:rgb(143, 15, 15);
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0.1em 0.1em 0.1em rgb(37, 36, 36);
+    font-family: 'Rock Salt', cursive;
+    padding: 50px;
+}
+
+
+.poe-life p:first-child {
+    text-align: center;
+    font-size: 35px;
+}
+
+.poe-life {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
