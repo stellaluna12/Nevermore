@@ -28,6 +28,7 @@ div.nav ul{
 	text-decoration:none;
 	background-color:#fff;
 	color:#009;
+	overflow: hidden;
 }
 
 .nav a:hover {
