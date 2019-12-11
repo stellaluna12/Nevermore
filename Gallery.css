@@ -28,7 +28,6 @@ div.nav ul{
 	text-decoration:none;
 	background-color:#fff;
 	color:#009;
-	overflow: hidden;
 }
 
 .nav a:hover {
@@ -46,7 +45,7 @@ div.nav ul{
   }
 
   .pictures img {
-    margin-top: 100px;
+    margin-top: 150px;
     display: inline;
     width: 250px;
     height: 250px;
